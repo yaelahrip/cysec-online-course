@@ -10,8 +10,8 @@ https://github.com/Sm4rty-1/Tryhackme_room
 # HackTheBox Roadmap:
 https://www.hackthebox.com
 https://academy.hackthebox.com
-https://www.hackthebox.com/.../learn-to-hack-beginners-bible
-https://medium.com/.../beginner-tips-to-own-boxes-at...
+https://www.hackthebox.com/blog/learn-to-hack-beginners-bible?fbclid=IwAR39MkRGBDDplrbawlZr0MhRzVN681aZeZyEise179du5MIxc59p8g-S0Vc
+https://medium.com/bug-bounty-hunting/beginner-tips-to-own-boxes-at-hackthebox-9ae3fec92a96
 https://www.youtube.com/c/ippsec
 .
 https://www.vulnhub.com
